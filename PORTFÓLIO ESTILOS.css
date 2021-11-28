@@ -1,0 +1,89 @@
+html{
+	
+}
+
+head{
+
+}
+
+body{
+	background-image: url('bg2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	background-color: #FCF8E5;
+	margin: 0px;
+	padding: 0px;
+}
+
+p{
+
+}
+
+#menu_topo {
+	position: fixed;
+	top: 0;
+	background-color: #EEEEEE;
+	box-shadow:4px 4px 4px #B9B9B9;
+	width: 100%;
+	height: 120px;
+
+}
+
+#caixa{
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 90px;
+	font-size: 35px;
+}
+
+#pranchas{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 400px;
+}
+
+
+  padding: 70px;
+}
+
+.titulo{
+	font-size: 80px;
+}
+
+.header {
+  list-style-type: none;
+
+  text-align: left;
+  margin-left: 100px;
+  margin-top: -110px;
+  position: relative;
+  padding: 0;
+}
+
+
+
+.header li {
+  display: inline-block;
+
+  padding: 50px;
+}
+
+#pt2{
+	text-align: right;
+	margin-right: 80px;
+	margin-top: 80px;
+}
+
+#barra{
+
+	height: 120px;
+	width: 100%;
+}
+
+#logo{
+	width: 70px;
+	margin-left: 70px;
+	margin-top: 15px;
+
+}

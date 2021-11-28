@@ -1,0 +1,185 @@
+html{
+	
+}
+
+head{
+
+}
+
+body{
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+body{
+	background-image: url('bg2.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+	background-color: #FCF8E5;
+	margin: 0px;
+	padding: 0px;
+}
+
+p{
+
+}
+
+#menu_topo {
+	position: fixed;
+	top: 0;
+	background-color: #EEEEEE;
+	box-shadow:4px 4px 4px #B9B9B9;
+	width: 100%;
+	height: 120px;
+
+}
+
+#caixa{
+	margin-left: 80px;
+	margin-right: 80px;
+	margin-top: 90px;
+	font-size: 35px;
+}
+
+#pranchas{
+	display: flex;
+	justify-content: space-between;
+	margin-top: 400px;
+}
+
+
+  padding: 70px;
+}
+
+.titulo{
+	font-size: 80px;
+}
+
+.header {
+  list-style-type: none;
+
+  text-align: left;
+  margin-left: 100px;
+  margin-top: -110px;
+  position: relative;
+  padding: 0;
+}
+
+
+
+.header li {
+  display: inline-block;
+
+  padding: 50px;
+}
+
+#pt2{
+	text-align: right;
+	margin-right: 80px;
+	margin-top: 80px;
+}
+
+#barra{
+
+	height: 120px;
+	width: 100%;
+}
+
+#logo{
+	width: 70px;
+	margin-left: 70px;
+	margin-top: 15px;
+
+}
+
+#scroll1{
+	overflow-x: scroll;
+	width: 404px;
+	justify-content: space-between;
+	display: flex;
+	margin-top: 344px;
+	margin-left: 11px;
+}
+
+#scroll1 img{
+	margin-right: 10px;
+}
+
+#scroll2{
+	overflow-x: scroll;
+	width: 404px;
+	justify-content: space-between;
+	display: flex;
+	margin-top: 344px;
+	margin-left: 11px;
+}
+
+#scroll2 img{
+	margin-right: 10px;
+}
+
+#scroll3{
+	overflow-x: scroll;
+	width: 404px;
+	justify-content: space-between;
+	display: flex;
+	margin-top: 344px;
+	margin-left: 11px;
+}
+
+#scroll3 img{
+	margin-right: 10px;
+}
+
+#prancha_eric{
+	width: 436px;
+	background-image: url("erictela.png");
+	background-repeat: no-repeat;
+	height: 816px;
+	margin-top: -100;
+	position: inherit;
+	margin-bottom: 150px;
+}
+
+#prancha_poba{
+	width: 436px;
+	background-image: url("pobatela.png");
+	background-repeat: no-repeat;
+	height: 816px;
+	margin-top: -100;
+}
+
+#prancha_gveras{
+	width: 436px;
+	background-image: url("gverastela.png");
+	background-repeat: no-repeat;
+	height: 816px;
+	margin-top: -100;
+}
+
+.btn1{
+	text-decoration: none;
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 25px;
+	background: #000000;
+	text-align: center;
+	padding: 15px;
+	border-radius: 35px;
+	width: 250px;
+	height: 35pxpx;
+	display: inline-block;
+	margin-left: 75px;
+	margin-top: 10px;
+	transition-duration: 0.4s;
+}
+
+.btn1:hover{
+	color: #ffffff;
+	background: #00CFEF;
+}
